@@ -1,3 +1,3 @@
-# sinergi.tirto.id
+trk.tirto.id
 
 PoC by Rahman
